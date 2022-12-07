@@ -1,2 +1,2 @@
-window.prompt("Enter your Name: ")
-alert("Hello,")
+let x = window.prompt("Enter your Name: ")
+alert("Hello,"+x)
